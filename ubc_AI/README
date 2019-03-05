@@ -1,5 +1,5 @@
 This project inherited from PICS(https://github.com/zhuww/ubc_AI). You can read Zhu Weiwei's github to know how to install the software. 
-Furthermore, you should install TensorFlow platform. Using testResnet.py to train the model. The classification code as follws:
+Furthermore, you should install TensorFlow platform. Using testResnet.py to train the model. The classification code presents as follws:
 
 import cPickle, glob, ubc_AI
 from ubc_AI.data import pfdreader
